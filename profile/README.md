@@ -1,4 +1,4 @@
-![Neuland AI]()
+![Neuland AI](https://raw.githubusercontent.com/neulandAI/.github/a54bac6565bd19842380d3c7c48cad91935168b8/profile/neuland-logo.svg)
 
 ## Welcome to Neuland AI
 
