@@ -6,6 +6,10 @@
 
 This project is still a work in progress, check back for updates soon!
 
+<p align="left">
+  <a href="https://neuland-ai.com/" target="_blank">https://neuland-ai.com/</a>
+</p>
+
 ---
 
 <sub>Note: This is the public organization profile for Neuland AI.</sub>
